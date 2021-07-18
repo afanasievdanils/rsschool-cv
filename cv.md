@@ -36,4 +36,9 @@
 </div>
 ```
 6. **Junior QA Engineer** 6 month
+[Linkendin Page](https://www.linkedin.com/in/%D0%B4%D0%B0%D0%BD%D0%B8%D0%BB-%D0%B0%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2-292b91208) 
    * Vadim Kseindov QA Author courses 
+7. Graduated [KGTU Razzakov's](https://www.kstu.kg/) with major : Managment
+8. My divide my english on 2 parts. Written and spoken
++ * Written level : A2
+  * Spoken level : B1 
