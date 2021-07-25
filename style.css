@@ -1,0 +1,11 @@
+*
+{
+ width: 100% auto;
+}
+aside img {
+    margin: 0;
+}
+main {
+    width: 30%;
+    float: center;
+}
