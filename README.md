@@ -1,1 +1,1 @@
-https://afanasievdanils.github.io/rsschool-cv/
+https://afanasievdanils.github.io/rsschool-cv/ sdfdfsd
